@@ -1,0 +1,17 @@
+{
+    "name": "davron/php-framework",
+
+    "authors": [
+        {
+            "name": "Davron123",
+            "email": "kifleader@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
